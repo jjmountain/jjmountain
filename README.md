@@ -2,4 +2,5 @@
 
 You've found me on GitHub 🥲 
 
-I like making tools to help people learn.
+Tokyo-based 🗼 UK-born 🇬🇧
+Teacher and Freelance developer
