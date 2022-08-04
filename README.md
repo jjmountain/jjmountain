@@ -1,6 +1,11 @@
-# Hey there! 
+# Well hello!
 
-You've found me on GitHub 🥲 
+### I'm a <strong>UK</strong>-born <strong>Tokyo</strong>-based Teacher and Freelance developer 👨‍🔬
+<p>
+I cook up Educational contents.. and sometimes recipes from my tiny Tokyo apartment.
+</p>
+<p>
+Some of the freelance work I've done:
+</p>
 
-Tokyo-based 🗼 UK-born 🇬🇧
-Teacher and Freelance developer
+- This 3D Configurator app for a Tokyo-based Campervans Company (React)[English version](https://www.dreamdrive.life/kuma-configurator/) / [日本語飯](https://www.dreamdrive.life/jp/kuma-configurator/)
