@@ -8,4 +8,4 @@ I cook up Educational contents.. and sometimes recipes from my tiny Tokyo apartm
 Some of the freelance work I've done:
 </p>
 
-- This 3D Configurator app for a Tokyo-based Campervans Company (React)[English version](https://www.dreamdrive.life/kuma-configurator/) / [日本語飯](https://www.dreamdrive.life/jp/kuma-configurator/)
+- This 3D Configurator app for a Tokyo-based Campervans Company [English version](https://www.dreamdrive.life/kuma-configurator/) / [日本語版](https://www.dreamdrive.life/jp/kuma-configurator/)
