@@ -1,4 +1,4 @@
-# Thanks for stopping by 😀
+# Thanks for visting my Github 🤓
 
 ### I'm a <strong>UK</strong>-born <strong>Tokyo</strong>-based Teacher and Freelance developer 👨‍🔬
 <p>
