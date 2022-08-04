@@ -1,4 +1,4 @@
-# Well hello!
+# Thanks for stopping by
 
 ### I'm a <strong>UK</strong>-born <strong>Tokyo</strong>-based Teacher and Freelance developer 👨‍🔬
 <p>
