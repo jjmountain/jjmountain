@@ -2,9 +2,6 @@
 
 ### I'm a <strong>UK</strong>-born <strong>Tokyo</strong>-based Teacher and Freelance developer 👨‍🔬
 <p>
-I cook up Educational contents.. and sometimes recipes from my tiny Tokyo apartment.
-</p>
-<p>
 Some of the freelance work I've done:
 </p>
 
