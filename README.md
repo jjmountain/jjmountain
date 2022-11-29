@@ -7,8 +7,6 @@ Some of the freelance work I've done:
 
 - [This 3D Configurator app for a Tokyo-based Campervans Company](https://www.dreamdrive.life/kuma-configurator/) / [日本語版](https://www.dreamdrive.life/jp/kuma-configurator/)
 
-I recently created these educational contents for a course on Functional Programming in React:
-
 
 
 
